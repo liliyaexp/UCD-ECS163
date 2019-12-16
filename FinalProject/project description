@@ -1,0 +1,13 @@
+With the purpose to “see” the music piece La Folía while listening to it, we explored and processed the La Folía MIDI data, 
+then created an interactive visualization system. 
+
+The original MIDI data exported from the MuseScore database is then processed from a binary encoded music data file to a JSON file and a CSV file. 
+
+Our goal is to visualize La Folía in deep along with a music play.
+
+Visualization includes:
+    - a Radial scatter plot which introduces the music piece based on information of each music node, 
+    - a Tonnetz visualization plot which shows detailed music texture information for professional analyzation, 
+    - an Arc diagram which describes the whole structure of the music piece.
+
+Project detail see the repository named La-Folia-Music-Visualization folked from @Haicatw.
